@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SFrost.API.props" />
+</Project>

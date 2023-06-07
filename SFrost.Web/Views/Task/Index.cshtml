@@ -1,0 +1,48 @@
+﻿@*
+        For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<ExcelData>
+@{
+
+    ViewData["Title"] = "Task List";
+}
+
+<h1>Task List</h1>
+<form method="post" action="/Task/ProcessAction">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    <input type="checkbox" id="selectAll" onchange="toggleAll(this)">
+                    <label for="selectAll">Select All</label>
+                </th>
+                <th>Module Name</th>
+                <th>Task Item</th>
+                <th>Start Time</th>
+                <th>End Time</th>
+                <th>Task Owner</th>
+                <th>导入时间</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var excelData in Model)
+            {
+                <tr>
+                    <td>
+                        <input type="checkbox" name="selectedIds" value="@excelData.Id" /> @excelData.Id
+                    </td>
+                    <td>@excelData.ModuleName</td>
+                    <td>@excelData.TaskItem</td>
+                    <td>@excelData.StartTime</td>
+                    <td>@excelData.EndTime</td>
+                    <td>@excelData.TaskOwner</td>
+                    <td>@excelData.ImportTime</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <button type="submit" name="action" value="delete">Delete Selected</button>
+        <button type="submit" name="action" value="export">Export Selected</button>
+    </p>
+</form>
