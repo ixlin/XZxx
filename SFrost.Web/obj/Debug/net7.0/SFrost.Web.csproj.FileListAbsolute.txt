@@ -262,11 +262,11 @@
 /Users/xionglin/Projects/XZxx2/SFrost.Web/obj/Debug/net7.0/SFrost.Web.pdb
 /Users/xionglin/Projects/XZxx2/SFrost.Web/obj/Debug/net7.0/SFrost.Web.genruntimeconfig.cache
 /Users/xionglin/Projects/XZxx2/SFrost.Web/obj/Debug/net7.0/ref/SFrost.Web.dll
-/Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/appsettings.Development.json
-/Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/appsettings.json
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.API.deps.json
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.API.runtimeconfig.json
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.API
+/Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/appsettings.Development.json
+/Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/appsettings.json
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.Web.staticwebassets.runtime.json
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.Web
 /Users/xionglin/Projects/XZxx/SFrost.Web/bin/Debug/net7.0/SFrost.Web.deps.json

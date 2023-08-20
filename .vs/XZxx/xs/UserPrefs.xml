@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{2C8996D8-06DE-424A-BE43-69EEBEDDEE2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SFrost.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.SFrost.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CS02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SFrost.Web/Program.cs">
+    <Files>
+      <File FileName="CS02/Program.cs" Line="3" Column="1" />
+      <File FileName="SFrost.API/Controllers/ExcelController.cs" Line="1" Column="1" />
+      <File FileName="SFrost.API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="SFrost.Web/Controllers/TaskController.cs" Line="97" Column="13" />
+      <File FileName="SFrost.Web/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XZxx" expanded="True">
+            <Node name="CS02" expanded="True" />
+            <Node name="SFrost.API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="SFrost.Web" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
