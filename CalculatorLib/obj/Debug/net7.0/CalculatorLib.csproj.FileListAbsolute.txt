@@ -1,0 +1,12 @@
+/Users/xionglin/Projects/XZxx/CalculatorLib/bin/Debug/net7.0/CalculatorLib.deps.json
+/Users/xionglin/Projects/XZxx/CalculatorLib/bin/Debug/net7.0/CalculatorLib.dll
+/Users/xionglin/Projects/XZxx/CalculatorLib/bin/Debug/net7.0/CalculatorLib.pdb
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.AssemblyReference.cache
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfo.cs
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.dll
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/refint/CalculatorLib.dll
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/CalculatorLib.pdb
+/Users/xionglin/Projects/XZxx/CalculatorLib/obj/Debug/net7.0/ref/CalculatorLib.dll

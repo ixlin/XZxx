@@ -1,44 +1,40 @@
-﻿<Properties StartupConfiguration="{2C8996D8-06DE-424A-BE43-69EEBEDDEE2F}|Default">
-  <MonoDevelop.Ide.ItemProperties.SFrost.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.SFrost.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CS02 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SFrost.Web/Program.cs">
+﻿<Properties StartupConfiguration="{A5F12B23-30EB-4508-A41E-E0C7728B4C13}|Default">
+  <MonoDevelop.Ide.ItemProperties.CalculatorLibUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorLibUnitTests/CalculatorUnitTests.cs">
     <Files>
-      <File FileName="CS02/Program.cs" Line="3" Column="1" />
-      <File FileName="SFrost.API/Controllers/ExcelController.cs" Line="1" Column="1" />
-      <File FileName="SFrost.API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="SFrost.Web/Controllers/TaskController.cs" Line="97" Column="13" />
-      <File FileName="SFrost.Web/Program.cs" Line="9" Column="1" />
+      <File FileName="CS02/Program.cs" Line="7" Column="16" />
+      <File FileName="CS02/CS02Notes.md" Line="3" Column="17" />
+      <File FileName="CalculatorLib/Class1.cs" Line="7" Column="19" />
+      <File FileName="CalculatorLibUnitTests/UnitTest1.cs" Line="21" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="XZxx" expanded="True">
+            <Node name="CalculatorLib" expanded="True" />
+            <Node name="CalculatorLibUnitTests" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
             <Node name="CS02" expanded="True" />
-            <Node name="SFrost.API" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Controllers" expanded="True" />
-            </Node>
-            <Node name="SFrost.Web" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Controllers" expanded="True" />
-              <Node name="Program.cs" selected="True" />
-            </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="XZxx" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CS02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SFrost.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.SFrost.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
